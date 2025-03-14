@@ -1269,7 +1269,7 @@
 {0x4F1,0,"push_negate_quantum_as_negint"},
 {0x4F2,0,"push_exact1"},
 {0x4F3,0,"OO_GetFirstFlashAppSectorAddress"},
-{0x4F4,0,"ROM_CALL_4F4"},
+{0x4F4,0,"OSLinkTxQueuePending"},
 {0x4F5,0,"OO_DestroyAll"},
 {0x4F6,0,"ROM_CALL_4F6"},
 {0x4F7,0,"push_approx"},
