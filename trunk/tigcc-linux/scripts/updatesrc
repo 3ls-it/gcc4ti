@@ -160,7 +160,7 @@ echo .
 
 # Build scripts
 echo Updating scripts...
-cp -prf "$TIGCCLINUXDIR/scripts/" "$OUTDIR/"
+cp -prf "$TIGCCLINUXDIR/scripts" "$OUTDIR/"
 chmod +x "$OUTDIR"/scripts/[^S]*
 
 
